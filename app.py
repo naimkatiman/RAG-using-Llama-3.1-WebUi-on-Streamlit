@@ -1,6 +1,7 @@
 
-#App for UI to run the Llama-3.1 model
+# App for UI to run the Llama-3.1 model
 # Adapted from https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps#build-a-simple-chatbot-gui-with-streaming
+
 import os
 
 import base64
