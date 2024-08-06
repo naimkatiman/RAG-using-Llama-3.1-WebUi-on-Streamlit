@@ -149,7 +149,7 @@ query_engine.update_prompts({"response_synthesizer:text_qa_template": qa_prompt_
 
 ## 📝 Note
 
-This application requires significant computational resources. A standard GPU may not suffice to run it locally; a more advanced environment is recommended. You can explore the functionality using Streamlit Cloud or other cloud-based solutions.
+This application requires significant computational resources. A standard GPU may not suffice to run it locally; a more advanced environment is recommended. You can explore the functionality using LightningAi workspace, Streamlit Cloud or other cloud-based solutions. Check this out to try out on hand https://lightning.ai/lightning-ai/studios/rag-using-llama-3-1-by-meta-ai
 
 ## 📚 Learn More
 
